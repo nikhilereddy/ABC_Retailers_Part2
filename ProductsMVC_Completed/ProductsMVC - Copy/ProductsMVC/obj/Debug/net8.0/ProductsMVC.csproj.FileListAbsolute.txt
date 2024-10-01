@@ -1,0 +1,141 @@
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\ProductsMVC.staticwebassets.runtime.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\ProductsMVC.exe
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\ProductsMVC.deps.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\ProductsMVC.runtimeconfig.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\ProductsMVC.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\ProductsMVC.pdb
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\Azure.Data.Tables.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.AssemblyInfo.cs
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.RazorAssemblyInfo.cache
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.RazorAssemblyInfo.cs
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.ProductsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsMVC.props
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsMVC.props
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsMVC.props
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\scopedcss\bundle\ProductsMVC.styles.css
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\scopedcss\projectbundle\ProductsMVC.bundle.scp.css
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\Products.D142FFD7.Up2Date
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\refint\ProductsMVC.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.pdb
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ProductsMVC.genruntimeconfig.cache
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\obj\Debug\net8.0\ref\ProductsMVC.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\David\source\repos\ProductsMVC\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.staticwebassets.runtime.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.exe
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.deps.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.runtimeconfig.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.pdb
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Data.Tables.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.csproj.AssemblyReference.cache
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.AssemblyInfoInputs.cache
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.AssemblyInfo.cs
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.csproj.CoreCompileInputs.cache
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.RazorAssemblyInfo.cache
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.RazorAssemblyInfo.cs
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.ProductsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsMVC.props
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsMVC.props
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsMVC.props
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\scopedcss\bundle\ProductsMVC.styles.css
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\scopedcss\projectbundle\ProductsMVC.bundle.scp.css
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\Products.D142FFD7.Up2Date
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\refint\ProductsMVC.dll
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.pdb
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.genruntimeconfig.cache
+C:\Users\ishka\Downloads\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ref\ProductsMVC.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.staticwebassets.runtime.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.exe
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.deps.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.runtimeconfig.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\ProductsMVC.pdb
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Data.Tables.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.AssemblyInfo.cs
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.RazorAssemblyInfo.cache
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.RazorAssemblyInfo.cs
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.ProductsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsMVC.props
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsMVC.props
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsMVC.props
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\scopedcss\bundle\ProductsMVC.styles.css
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\scopedcss\projectbundle\ProductsMVC.bundle.scp.css
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\Products.D142FFD7.Up2Date
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\refint\ProductsMVC.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.pdb
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.genruntimeconfig.cache
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ref\ProductsMVC.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.Azure.WebJobs.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\obj\Debug\net8.0\ProductsMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\bin\Debug\net8.0\Microsoft.Azure.Functions.Extensions.dll

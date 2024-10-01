@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProductsMVC
+build_property.RootNamespace = ProductsMVC
+build_property.ProjectDir = C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\David\OneDrive\Documents\Semester 2 Y2\Cloud B\Cloud Backup\ProductsMVC - Copy\ProductsMVC - Copy\ProductsMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Files/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Files/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Products/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Products/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Products/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Products/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Products/OrderConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcT3JkZXJDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Products/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Users/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/OneDrive/Documents/Semester 2 Y2/Cloud B/Cloud Backup/ProductsMVC - Copy/ProductsMVC - Copy/ProductsMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i7d7z5o2si

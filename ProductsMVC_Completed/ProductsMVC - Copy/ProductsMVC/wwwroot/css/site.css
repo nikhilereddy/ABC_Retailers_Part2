@@ -1,0 +1,168 @@
+html.antic-slab-regular {
+    font-family: "Antic Slab", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px; /* Default font size */
+    font-optical-sizing: auto; /* Keep the automatic optical sizing */
+}
+
+/* Media query to adjust font size for larger screens */
+@media (min-width: 768px) {
+    html.antic-slab-regular {
+        font-size: 16px; /* Increase font size for screens wider than 768px */
+    }
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('../images/artboard 1.png');
+    background-position: center;
+    background-attachment: fixed;
+    color: white; /* Set default text color to white */
+}
+
+p, h1, h2, h3, h4, h5, h6, label, ul, li {
+    font-family: "Antic Slab", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-optical-sizing: auto; /* Keep the automatic optical sizing */
+    color: white; /* Set text color to white */
+}
+
+.form-control {
+    font-family: "Antic Slab", serif; /* Apply the Antic Slab font */
+    color: black; /* Set the text color to black */
+}
+
+.card-body {
+    font-family: 'Antic Slab', serif; /* Apply Antic Slab font */
+    color: black; /* Set text color to black */
+    padding: 1.25rem; /* Ensure consistent padding */
+}
+
+.card-title, .card-text {
+    font-family: 'Antic Slab', serif; /* Apply Antic Slab font */
+    color: black; /* Set text color to black */
+}
+
+.card-img-top {
+    height: 200px; /* Ensure image height */
+    object-fit: cover; /* Ensure image covers the area */
+}
+
+.btn, .btn-primary, .btn-link, .btn-outline-primary {
+    background-color: #71FF77; /* Set background color */
+    border-color: #71FF77; /* Set border color for button outlines */
+    color: black; /* Set text color to black for contrast */
+}
+
+    .btn:hover, .btn:focus, .btn:active {
+        background-color: #5ae865; /* Darker shade for hover and focus states */
+        border-color: #5ae865; /* Darker shade for border on hover and focus */
+    }
+
+.btn-outline-primary {
+    background-color: transparent; /* Transparent background for outline buttons */
+    color: #71FF77; /* Text color matching the button color */
+    border-color: #71FF77; /* Border color matching the button color */
+}
+
+    .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active {
+        background-color: #71FF77; /* Background color on hover for outline buttons */
+        color: black; /* Text color on hover for contrast */
+        border-color: #71FF77; /* Border color on hover */
+    }
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #71FF77; /* Update focus color */
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/* Apply the font to all buttons, links, navbar, and footer */
+button,
+.btn,
+a,
+.navbar,
+.navbar-brand,
+.navbar-nav .nav-link,
+.navbar-text,
+.btn-link,
+.footer,
+.footer a {
+    font-family: "Antic Slab", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-optical-sizing: auto; /* Keep the automatic optical sizing */
+    color: white; /* Set text color to white */
+}
+
+/* Specific selector for elements inside .text-black */
+.text-black p,
+.text-black h1,
+.text-black h2,
+.text-black h3,
+.text-black h4,
+.text-black h5,
+.text-black h6,
+.text-black label,
+.text-black ul,
+.text-black li,
+.text-black .form-control,
+.text-black .btn,
+.text-black a {
+    color: black !important; /* Use !important to override global styles if necessary */
+}
+
+.text-success-link {
+    color: #71FF77; /* Set the desired color */
+}
+
+/* Ensure the Antic Slab font is applied to the table text */
+table {
+    font-family: "Antic Slab", serif;
+    color: white; /* Set text color to white */
+}
+
+thead th {
+    font-family: "Antic Slab", serif;
+    color: white; /* Set header text color to white */
+    background-color: #1B043B; /* Dark background for header */
+}
+
+tbody td {
+    font-family: "Antic Slab", serif;
+    color: white; /* Set body text color to white */
+}
+
+/* Optional: Style for the "No messages found" text */
+.table tbody td.text-center {
+    text-align: center;
+    color: white; /* Ensure color consistency */
+}
+
+/* Optional: Styling for the table as a whole */
+.table {
+    background-color: #1B043B; /* Dark background for the table */
+}
+
+/* Specific style for red buttons */
+.btn-danger {
+    background-color: #FF0000; /* Red background color */
+    border-color: #FF0000; /* Red border color */
+    color: white; /* White text color */
+}
+
+    /* Change color on hover */
+    .btn-danger:hover {
+        background-color: #cc0000; /* Darker red on hover */
+        border-color: #cc0000; /* Darker red border on hover */
+    }
+
+    /* Ensure focus styles are also consistent */
+    .btn-danger:focus, .btn-danger:active:focus {
+        box-shadow: 0 0 0 0.1rem rgba(255, 0, 0, 0.25); /* Red shadow */
+    }

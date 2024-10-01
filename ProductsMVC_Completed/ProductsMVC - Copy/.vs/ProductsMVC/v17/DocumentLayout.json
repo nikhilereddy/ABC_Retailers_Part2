@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\functionapp3\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\functionapp3\\queueordermessagefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\queueordermessagefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\functionapp3\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\functionapp3\\blobfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\blobfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\functionapp3\\filesharefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\filesharefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\functionapp3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A104E1BB-78BA-4DF8-8993-E9FFA3E4E46A}|FunctionApp3\\FunctionApp3.csproj|solutionrelative:functionapp3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\products\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\products\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\products\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\products\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\products\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\products\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\files\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\files\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|c:\\users\\david\\onedrive\\documents\\semester 2 y2\\cloud b\\cloud backup\\productsmvc - copy\\productsmvc - copy\\productsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE83BB8F-F120-4476-81B9-07E31E4CD246}|ProductsMVC\\ProductsMVC.csproj|solutionrelative:productsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Services\\QueueService.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\QueueService.cs",
+              "RelativeToolTip": "ProductsMVC\\Services\\QueueService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:43:53.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAHEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:46:48.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "ProductsMVC\\Services\\TableStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:40:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\UserService.cs",
+              "RelativeToolTip": "ProductsMVC\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:41:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp3\\Function1.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\Function1.cs",
+              "RelativeToolTip": "FunctionApp3\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:12:12.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ProductsMVC\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:39:56.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueOrderMessageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\QueueOrderMessageFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp3\\QueueOrderMessageFunction.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\QueueOrderMessageFunction.cs",
+              "RelativeToolTip": "FunctionApp3\\QueueOrderMessageFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:53:06.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Models\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Models\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Models\\CartViewModel.cs",
+              "RelativeToolTip": "ProductsMVC\\Models\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:19:16.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\local.settings.json",
+              "RelativeDocumentMoniker": "FunctionApp3\\local.settings.json",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\local.settings.json",
+              "RelativeToolTip": "FunctionApp3\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T11:23:46.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\BlobService.cs",
+              "RelativeToolTip": "ProductsMVC\\Services\\BlobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:13:44.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlobFunction.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\BlobFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp3\\BlobFunction.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\BlobFunction.cs",
+              "RelativeToolTip": "FunctionApp3\\BlobFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:10:19.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureFileShareService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\AzureFileShareService.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Services\\AzureFileShareService.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Services\\AzureFileShareService.cs",
+              "RelativeToolTip": "ProductsMVC\\Services\\AzureFileShareService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:17:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileShareFunction.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\FileShareFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp3\\FileShareFunction.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\FileShareFunction.cs",
+              "RelativeToolTip": "FunctionApp3\\FileShareFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:22:10.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "ProductsMVC\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:07:25.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProductsMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Models\\User.cs",
+              "RelativeToolTip": "ProductsMVC\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:17:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\appsettings.json",
+              "RelativeToolTip": "ProductsMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T14:33:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\.gitignore",
+              "RelativeDocumentMoniker": "FunctionApp3\\.gitignore",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\FunctionApp3\\.gitignore",
+              "RelativeToolTip": "FunctionApp3\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T12:48:11.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\AdminIndex.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Products\\AdminIndex.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\AdminIndex.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Products\\AdminIndex.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvy4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:03:12.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Products\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\EditProduct.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Products\\EditProduct.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:02:53.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Files\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Files\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Files\\Index.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Files\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T16:59:20.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\Orders.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Products\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\Orders.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Products\\Orders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T16:51:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Files\\Upload.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Files\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Files\\Upload.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Files\\Upload.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:23:31.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:17:21.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Products\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\AddProduct.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Products\\AddProduct.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAABRwCsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:11:54.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:01:27.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProductsMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProductsMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T14:26:19.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Users\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Users\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Users\\SignUp.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Users\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:50:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:21:59.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:18:25.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductsMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\OneDrive\\Documents\\Semester 2 Y2\\Cloud B\\Cloud Backup\\ProductsMVC - Copy\\ProductsMVC - Copy\\ProductsMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductsMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:13:11.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
